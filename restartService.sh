@@ -1,2 +1,1 @@
-touch xxx.txt
-ls -la xxx.txt
+java -jar target/bootexamine-0.0.1-SNAPSHOT.war
